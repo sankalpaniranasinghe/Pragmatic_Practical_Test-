@@ -1,0 +1,6 @@
+{
+    "watchForFileChanges":false,
+    "chromeWebSecurity": false ,
+    "defaultCommandTimeout":5000
+    
+}
