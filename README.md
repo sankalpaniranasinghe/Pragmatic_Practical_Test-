@@ -7,10 +7,10 @@ windows 7 and above
 visual studio code
 
 ##run project##
-open VS code terminal and run command:
+#open VS code terminal and run command:
 npm inity
-install cypress :
+#install cypress :
 npm cypress -v
-open cypress project:
+#open cypress project:
 npx cypress open
 
